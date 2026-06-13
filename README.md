@@ -1,10 +1,38 @@
-# ESP-32_led_Projects
-All my projects build with using Esp-32 are here : ) ;
-Projects:
-1)LED Control and wifi signal strength
-  This is a very simple project in which I have been able to on and off the led which is inbuilt in an esp-32 also check the signal          strength of the wifi which is used to power the esp-32.
-  Technical stack - C++, Js, HTML.
-  I have also created a webpage with the help of HTML so that I can control the LED wirelessly and with the help of JS I have made the       button of wifi signal strength.
-2)Quote Viewer
- In this project I have used esp-32 to print a quote on an html webapage, wirelessly and when the user wants another one he will just       press a button at the quote will be changed.
- Technical stack - C++, HTML.
+# ESP-32 Projects 🚀
+
+All my projects built using ESP-32 are here! 😊
+
+---
+
+## Projects
+
+### 1) LED Control & WiFi Signal Strength
+
+A simple project to turn ON/OFF the built-in ESP-32 LED and check WiFi signal strength wirelessly.
+
+**Technical Stack:** C++, JavaScript, HTML
+
+**Features:**
+- Control LED wirelessly via a webpage
+- Check WiFi signal strength with a JS button
+
+---
+
+### 2) Quote Viewer
+
+ESP-32 displays a random quote on an HTML webpage. Press a button to load a new quote.
+
+**Technical Stack:** C++, HTML
+
+---
+
+### 3) WiFi + Bluetooth Connection to ESP-32
+
+Used `WiFi` and `BluetoothSerial` libraries for ESP-32 in Arduino IDE.  
+Successfully sent wireless messages from phone to ESP-32 via Bluetooth using the **Serial Bluetooth Terminal** app.
+
+**Technical Stack:** C++
+
+**Libraries Used:**
+- `WiFi.h`
+- `BluetoothSerial.h`
