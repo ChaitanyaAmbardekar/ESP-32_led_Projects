@@ -36,3 +36,14 @@ Successfully sent wireless messages from phone to ESP-32 via Bluetooth using the
 **Libraries Used:**
 - `WiFi.h`
 - `BluetoothSerial.h`
+
+---
+
+### 4) Soil Moisture Detector
+
+In this mini project I have used a soil moisture detector sensor which detects the mositure level on the soil.
+The working of the sensor is pretty simple the moisture detector has two exposed metal probes pass a small current through the soil. Wet soil conducts better, so resistance is lower; dry soil conducts worse, so resistance is higher.
+
+It can be useful for knowing when to water plants, avoiding overwatering, and checking whether soil is too dry or too wet. In larger setups, it also helps with irrigation control, crop management, and water saving.
+
+**Technical Stack:** C++
